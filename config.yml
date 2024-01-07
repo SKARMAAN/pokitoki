@@ -10,11 +10,11 @@ telegram:
 
     # The list of Telegram usernames allowed to chat with the bot.
     # If empty, the bot will be available to anyone.
-    usernames: []
+    usernames: [@Armaan512]
 
     # The list of Telegram usernames allowed to change bot settings.
     # If empty, then no one is allowed to change the settings.
-    admins: []
+    admins: [@Armaan512]
 
     # The list of Telegram group ids, whose members are allowed to chat with the bot.
     # If empty, the bot will only be available to `telegram.usernames`.
@@ -23,7 +23,7 @@ telegram:
 # OpenAI settings.
 openai:
     # OpenAI API key.
-    api_key: "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"
+    api_key: "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"
 
     # OpenAI model name.
     # See https://platform.openai.com/docs/models for description.
